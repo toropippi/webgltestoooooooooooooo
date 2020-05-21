@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "2DFluid_onGPU",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "bild.data.unityweb",
 "wasmCodeUrl": "bild.wasm.code.unityweb",
 "wasmFrameworkUrl": "bild.wasm.framework.unityweb",
